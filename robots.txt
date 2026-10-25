@@ -1,0 +1,10 @@
+# This file lives at /lamoon-privacy/robots.txt on a GitHub Pages project site.
+# For host-wide crawler rules, also publish deployment/robots-root-template.txt at https://maimajor.github.io/robots.txt.
+User-agent: *
+Allow: /
+Allow: /support/
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://maimajor.github.io/lamoon-privacy/sitemap.xml
